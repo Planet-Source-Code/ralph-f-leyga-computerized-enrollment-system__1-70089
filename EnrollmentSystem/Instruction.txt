@@ -1,0 +1,29 @@
+===========================WELCOME TO LEYGA INSTRUCTION=========================
+=================================================================================
+===========================COMPUTERIZED ENROLLMENT SYSTEM 1.0====================
+visit:http://www.rafsite.cjb.net
+Author: Ralph F. Leyga
+E-mail: ralphleyga@yahoo.com
+text or call: 09057805663
+
+Note: This system is distributed by the author for free:-)
+=================================================================================
+		INFORMATION
+username: admin
+password: cheese
+=================================================================================
+Note: It is my special project for special person which i just started last January 5, 2008 and 
+finished last January 6, 2008.  I hope that with this system you learn how to use query in
+Ms Visual Basic 6.0... I willing to have a programming job...
+
+I have experience in making:
+	
+	1. Grade Inventory System
+	2. Vote Tally System
+	3. Intramurals Tally System
+	4. Sales System...
+
+Just contact me: 09057805663
+
+Copyright © 2007
+All Right Reserved
